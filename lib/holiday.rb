@@ -22,9 +22,8 @@ def second_supply_for_fourth_of_july(holiday_hash)
 end
 
 def second_supply_for_fourth_of_july(holiday_supplies)
-binding.pry  
-    holiday_supplies[:summer][:fourth_of_july][1]
 
+    holiday_supplies[:summer][:fourth_of_july][1]
 end
 
 
